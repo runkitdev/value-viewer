@@ -1,0 +1,20 @@
+{
+  "name": "value-viewer",
+  "version": "1.0.0",
+  "description": "RunKit ValueViewer Polyfill",
+  "main": "value-viewer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runkitdev/value-viewer.git"
+  },
+  "keywords": ["runkit", "value-viewer"],
+  "author": "Francisco Ryan Tolmasky I",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/runkitdev/value-viewer/issues"
+  },
+  "homepage": "https://github.com/runkitdev/value-viewer#readme"
+}
