@@ -1,5 +1,5 @@
 {
-  "name": "value-viewer",
+  "name": "@runkit/value-viewer",
   "version": "1.0.0",
   "description": "RunKit ValueViewer Polyfill",
   "main": "value-viewer.js",
