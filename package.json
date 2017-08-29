@@ -1,6 +1,6 @@
 {
   "name": "@runkit/value-viewer",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "RunKit ValueViewer Polyfill",
   "main": "value-viewer.js",
   "scripts": {
@@ -16,5 +16,5 @@
   "bugs": {
     "url": "https://github.com/runkitdev/value-viewer/issues"
   },
-  "homepage": "https://github.com/runkitdev/value-viewer#readme"
+  "homepage": "http://runkit.com/docs/value-viewers"
 }

@@ -6,3 +6,5 @@ const hasSymbol =   typeof global.Symbol === "function" &&
 exports.ValueViewerSymbol = hasSymbol ?
     Symbol("RunKit Simple Value Viewer") :
     "@@_RunKit_Simple_Value_Viewer_@@";
+
+exports.register = function register(){};
